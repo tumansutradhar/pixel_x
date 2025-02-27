@@ -1,6 +1,12 @@
 # PixelX
 
 PixelX is a web-based tool that allows users to upload or drag and drop PNG/JPG images, convert them into pixel art with adjustable pixel size (0 to 100), and download the final result. The project is built with **Vite, React, and Tailwind CSS**, ensuring a fast and responsive experience.
+
+## Demo  
+
+![PixelX Demo](![Main](https://github.com/user-attachments/assets/69e54a79-9dc6-4146-93e3-4ecfe5247172)
+)
+
 ## Features
 
 - **Upload & Drag-and-Drop**: Users can upload PNG and JPG images or simply drag and drop them.
@@ -14,7 +20,7 @@ PixelX is a web-based tool that allows users to upload or drag and drop PNG/JPG 
 - **Tailwind CSS** - Utility-first CSS framework for styling.
 ## Live Demo
 
-Try PixelX online: [**PixelX Live Demo**]()
+Try PixelX online: [**PixelX Live Demo**](https://pixel-x.netlify.app/)
 ## Installation
 
 - #### Fork & Clone the Repository
