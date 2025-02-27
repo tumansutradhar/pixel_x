@@ -4,8 +4,7 @@ PixelX is a web-based tool that allows users to upload or drag and drop PNG/JPG 
 
 ## Demo  
 
-![PixelX Demo](![Main](https://github.com/user-attachments/assets/69e54a79-9dc6-4146-93e3-4ecfe5247172)
-)
+![PixelX Demo](https://github.com/user-attachments/assets/69e54a79-9dc6-4146-93e3-4ecfe5247172)
 
 ## Features
 
