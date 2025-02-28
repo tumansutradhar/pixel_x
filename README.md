@@ -72,11 +72,13 @@ I welcome contributions of all kinds! Whether it's fixing bugs, improving docume
 **4. Make Changes** – Implement your feature or fix.
 
 **5. Commit and Push** – Run:
+
 ```sh
 git add .
 git commit -m "Describe your changes"
 git push origin feature-name
 ```
+
 **6. Create a Pull Request (PR)** – Open a PR to the main repository and describe your changes.
 
 #### Contribution Guidelines
