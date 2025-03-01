@@ -38,6 +38,7 @@ Click the **`Fork`** button at the top right of the repository page. This create
 ```sh
 git clone https://github.com/YOUR-USERNAME/pixel_x.git
 ```
+
 - #### Navigate to the Project Directory:
 
 ```sh
@@ -69,6 +70,7 @@ This will launch your app on http://localhost:5173/
 I welcome contributions of all kinds! Whether it's fixing bugs, improving documentation, or adding new features, your help is appreciated.
 
 - #### How to Contribute
+
 **1. Fork the Repository** - Click the **`Fork`** button on GitHub to create your copy.
 
 **2. Clone Your Fork** – Run git clone `https://github.com/YOUR-USERNAME/pixel_x.git`
