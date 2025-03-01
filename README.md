@@ -12,21 +12,27 @@ PixelX is a web-based tool that allows users to upload or drag and drop PNG/JPG 
 - **Pixel Art Conversion**: Adjust pixel size from **0 to 100** to control the pixelation effect.
 - **Download Option**: Save the converted image to your device.
 - **Responsive Design**: Works smoothly on desktop and mobile devices.
+
 ## Tech Stack
 
 - **Vite** - Fast development and optimized build for React.
 - **React** - UI development with component-based architecture.
 - **Tailwind CSS** - Utility-first CSS framework for styling.
+
 ## Live Demo
 
 Try PixelX online: [**PixelX Live Demo**](https://pixel-x.netlify.app/)
+
 ## Installation
 
 - #### Fork & Clone the Repository
+
 #### Step 1: Fork the Repository
+
 Click the **`Fork`** button at the top right of the repository page. This creates a copy under your GitHub account.
 
 #### Step 2: Clone Your Fork
+
 - #### Copy and run this command in your terminal:
 
 ```sh
